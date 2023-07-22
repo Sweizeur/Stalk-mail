@@ -36,4 +36,4 @@ python3 st@lk.py
 
 ## Support
 For anyone who needs help, contact me on discord :
-- Sweizeur
+- sweizeur
