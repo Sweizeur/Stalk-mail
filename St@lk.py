@@ -73,11 +73,11 @@ def get_domains():
 
 def main():
     api_key = get_api_key()
-    if not api_key:
+    if not api_key or api_key=="":
         print("Please provide a valid API key in a file named config.json.")
         return
     domains = get_domains()
-    if not domains:
+    if not domains or domains==[]:
         print("Please provide a valid list of domains in a file named config.json.")
         return
     email_verifier = EmailVerifier(api_key, domains)
