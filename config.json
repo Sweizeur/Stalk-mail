@@ -1,0 +1,9 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "domains": [
+    "gmail.com",
+    "hotmail.com",
+    "outlook.com",
+    "yahoo.com"
+  ]
+}
