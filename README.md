@@ -35,5 +35,5 @@ python3 st@lk.py
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Support
-For anyone who needs help, contact us on discord :
+For anyone who needs help, contact me on discord :
 - Sweizeur
