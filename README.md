@@ -29,7 +29,7 @@ python3 st@lk.py
 ```
 
 ## Configuration
-- using Email Verification API, you must have an api key available on [apilayer](https://apilayer.com/marketplace/email_verification-api) (1,000 requests per day for the free option)
+- using Email Verification API, you must have an api key available on apilayer: https://apilayer.com/marketplace/email_verification-api (1,000 requests per day for the free option)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
