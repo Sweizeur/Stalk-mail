@@ -1,6 +1,6 @@
 # St@lk
 
-Stalk is a python script used to check if an email is valid or not.
+Stalk is a OSINT python script used to check if an email is valid or not.
 
 ## Authors
 
