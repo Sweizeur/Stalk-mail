@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 
 ## Installation
 ```bash
-git clone https://github.com/Sweizeur/Tome.App_Credits.git
+git clone https://github.com/Sweizeur/Stalk-mail.git
 cd Stalk-mail
 python3 st@lk.py
 ```
